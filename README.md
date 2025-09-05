@@ -64,8 +64,3 @@ This project demonstrates SQL skills by building a **restaurant database** and r
 - Identify most popular dishes
 - Analyze customer spending habits
 - Support restaurant decision-making (pricing, menu design)
-
----
-
-## 📜 License
-This project is open-source under the MIT License.
